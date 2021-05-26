@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Austin (@arwarrington)
-- 👀 I’m interested in data cleaning & analysis, automation, and making cool visualizations ^.^ 
-- 🌱 I’m currently learning R, sharpening my SQL and trying to be a more mindful human. 
+- 👀 I’m interested in data munging, mapping, entry-level ML & policy analysis.
+- 🌱 I’m currently learning how to build maps in R and be a more mindful human. 
 
 
 <!---
