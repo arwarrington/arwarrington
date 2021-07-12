@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Austin (@arwarrington)
 - 👀 I’m interested in advanced SQL & R, mapping, and policy analysis.
-- 🌱 I’m currently learning about all things R, data visualization and mapping techniques, and how to be more mindful.  
+- 🌱 I’m currently learning about all things R, data visualizations, mapping techniques, and how to be more mindful.  
 
 
 <!---
