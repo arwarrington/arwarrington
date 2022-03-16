@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Austin (@arwarrington)
-- 👀 I’m interested in advanced SQL & R, mapping, and policy analysis.
-- 🌱 I’m currently learning about all things R, data visualizations, mapping techniques, and how to be more mindful.  
+- 👋 Hi, I’m Austin (@arwarrington).I'm a Data Engineer at the Planned Parenthood National office.
+- 👀  I'm interested in improving my Python and R and getting advanced lessons in SQL.  
+- 🌱 I’m currently learning about all things R, data visualizations, ELT processes and plants :) <3.   
 
 
 <!---
